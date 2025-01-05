@@ -1,10 +1,10 @@
 # Function to generate a random phrase or question
 function Get-RandomPhraseOrQuestion {
     $phrases = @(
-		"Where to buy milk",
+	"Where to buy milk",
         "Open jobs at amazon",
         "Lastest US election news",
-        "aberdeen flight to tenerife getaway",
+        "London flight to tenerife",
         "How to grow tomatoes in a pot",
         "Benefits of meditation",
         "Why is the sky blue",
@@ -52,9 +52,9 @@ function Get-RandomPhraseOrQuestion {
         "How to start a garden",
         "How to cook perfect rice",
         "Why is exercise important"
-        "How to create a memorable password that’s both secure and easy to remember?"
-        "What is the significance of the Mona Lisa’s enigmatic smile?"
-        "How to overcome writer’s block when working on a novel?"
+        "How to create a memorable password thatâ€™s both secure and easy to remember?"
+        "What is the significance of the Mona Lisaâ€™s enigmatic smile?"
+        "How to overcome writerâ€™s block when working on a novel?"
         "What is the process behind brewing a perfect cup of coffee?"
         "How to choose the right indoor plants for your home?"
         "What is the history of the Great Wall of China?"
